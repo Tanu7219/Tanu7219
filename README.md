@@ -4,7 +4,7 @@
 I build fast, secure, and data-driven web applications. I bridge the gap between beautiful user interfaces and robust server-side architecture.
 
 - 🛠️ **Available for work:** Yes, I can start on your project immediately!
-- 📬 **Contact me:** [Your Email Address] or DM me on Upwork.
+- 📬 **Contact me:** [tanvikasingh36@gamil.com] or DM me on Upwork.
 
 ---
 
