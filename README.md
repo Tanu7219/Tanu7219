@@ -1,10 +1,10 @@
 # Hi there, I'm Tanu! 👋 
 
-### 🚀 Full-Stack Web Developer | Available for Freelance Work
-I build fast, secure, and data-driven web applications. I bridge the gap between beautiful user interfaces and robust server-side architecture.
+### 🚀 Full-Stack Web Developer | Custom PHP & MySQL Specialist
+I specialize in building custom, high-performance web applications from scratch. I write clean, secure Core PHP scripts and manage robust relational databases using MySQL and phpMyAdmin.
 
 - 🛠️ **Available for work:** Yes, I can start on your project immediately!
-- 📬 **Contact me:** [tanvikasingh36@gamil.com] or DM me on Upwork.
+- 📬 **Contact me:** [tanvikasingh36@gmail.com].
 
 ---
 
@@ -17,15 +17,16 @@ I build fast, secure, and data-driven web applications. I bridge the gap between
 
 **Back-End Development & Databases**
 ![PHP](https://shields.io)
-![Database](https://shields.io)
+![MySQL](https://shields.io)
+![phpMyAdmin](https://shields.io)
 
 ---
 
 ### 🎯 What I Can Do For You
-* **Custom Web Applications:** Build dynamic websites using PHP, HTML, CSS, and JavaScript.
-* **Database Management:** Design, query, and secure databases to manage your application data smoothly.
-* **Bug Fixing & Scripting:** Troubleshoot broken JavaScript functionality or server-side PHP errors.
-* **Form & Data Handling:** Create secure user authentication, contact forms, and data processing systems.
+* **Custom PHP Application Development:** Build tailored web tools and back-end logic without relying on heavy frameworks.
+* **Database Design & Optimization:** Create relational schemas, write advanced SQL queries, and manage data via phpMyAdmin.
+* **Security & Authentication:** Set up secure user login sessions, password hashing, and protect against SQL injection attacks.
+* **API & Data Processing:** Build custom REST endpoints in PHP to handle JSON data exchanges with JavaScript front-ends.
 
 ---
 
@@ -34,4 +35,4 @@ I build fast, secure, and data-driven web applications. I bridge the gap between
 ![Top Langs](https://vercel.app)
 
 ---
-⚡ *Fun fact: I love writing clean, efficient code that solves real business problems. Let's work together!*
+⚡ *Fun fact: I love writing efficient backend code and optimizing database queries for speed. Let's build something great!*
